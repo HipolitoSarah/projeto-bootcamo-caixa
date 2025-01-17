@@ -1,2 +1,2 @@
-# projeto-bootcamo-caixa
+# projeto-bootcamp-caixa
 Projeto Ebook
